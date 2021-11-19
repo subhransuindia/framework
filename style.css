@@ -1,0 +1,178 @@
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins|Lobster|Nunito|Permanent+Marker">
+
+<style>
+.pd {
+padding: 16px;
+}
+.pd-sm {
+padding: 8px;
+}
+.pd-lg {
+padding: 32px;
+}
+.mg {
+margin: 16px;
+}
+.mg-sm {
+margin: 8px;
+}
+.mg-lg {
+margin: 32px;
+}
+.b-red {
+background: red;
+}
+.b-blue {
+background: blue;
+}
+.b-green {
+background: green;
+}
+.b-purple {
+background: purple;
+}
+.b-yellow {
+background: yellow;
+}
+.b-black {
+background: black;
+}
+.b-gray {
+background: gray;
+}
+.b-maroon {
+background: maroon;
+}
+.b-lime {
+background: lime;
+}
+.b-olive {
+background: olive;
+}
+.b-navy {
+background: navy;
+}
+.b-teal {
+background: teal;
+}
+.b-aqua {
+background: aqua;
+}
+.border {
+border: 2px solid black;
+}
+.border-top {
+border-top: 2px solid black;
+}
+.border-bottom {
+border-top: 2px solid black;
+}
+.border-left {
+border-left: 2px solid black;
+}
+.border-right {
+border-right: 2px solid black;
+}
+.border-radius-lg {
+border-radius: 20px;
+}
+.border-radius {
+border-radius: 10px;
+}
+.border-radius-sm {
+border-radius: 5px;
+}
+.sd-box {
+box-shadow: 2px 2px 5px black;
+}
+.sd-text {
+text-shadow: 2px 2px 5px black;
+}
+.break {
+word-break: break-all;
+}
+.c-red {
+color: red;
+}
+.c-blue {
+color: blue;
+}
+.c-green {
+color: green;
+}
+.c-purple {
+color: purple;
+}
+.c-yellow {
+color: yellow;
+}
+.c-black {
+color: black;
+}
+.c-gray {
+color: gray;
+}
+.c-maroon {
+color: maroon;
+}
+.c-lime {
+color: lime;
+}
+.c-olive {
+color: olive;
+}
+.c-navy {
+color: navy;
+}
+.c-teal {
+color: teal;
+}
+.c-aqua {
+color: aqua;
+}
+.f-poppins {
+font-family: poppins;
+}
+.f-serif {
+font-family: serif;
+}
+.f-sans-serif {
+font-family: sans-serif;
+}
+.o-hd {
+overflow: hidden;
+}
+.o-sc {
+overflow: scroll;
+}
+.p-fd {
+position: fixed;
+}
+.p-ab {
+position: absolute;
+}
+.p-rt {
+position: relative;
+}
+.p-st {
+position: sticky;
+}
+.t-al-l {
+text-align: left;
+}
+.t-al-c {
+text-align: center;
+}
+.t-al-r {
+text-align: right;
+}
+.t-al-j {
+text-align: justify;
+}
+.z-index-p {
+z-index: 1;
+}
+.z-index-n {
+z-index: -1;
+}
+</style>
