@@ -1,6 +1,9 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins|Lobster|Nunito|Permanent+Marker">
 
 <style>
+body {
+ font-family: Poppins;   
+}
 .pd {
 padding: 16px;
 }
