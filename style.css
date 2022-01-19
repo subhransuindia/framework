@@ -1,6 +1,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins|Lobster|Nunito|Permanent+Marker">
 
 <style>
+@import url("https://fonts.googleapis.com/css?family=Poppins|Lobster|Nunito|Permanent+Marker"); /* Using a url */
 body {
  font-family: Poppins;   
 }
